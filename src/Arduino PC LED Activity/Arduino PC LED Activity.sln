@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2009
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arduino PC LED Activity", "Arduino PC LED Activity.csproj", "{39B33D2E-4DAC-4D64-88A8-4730F9338593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEV Control Layouts", "..\..\..\GEV Control Layouts\GEV Control Layouts\GEV Control Layouts.csproj", "{677BBE0E-F8C8-4AF3-A398-ED0CE7C22E69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{39B33D2E-4DAC-4D64-88A8-4730F9338593}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39B33D2E-4DAC-4D64-88A8-4730F9338593}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39B33D2E-4DAC-4D64-88A8-4730F9338593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{677BBE0E-F8C8-4AF3-A398-ED0CE7C22E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677BBE0E-F8C8-4AF3-A398-ED0CE7C22E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677BBE0E-F8C8-4AF3-A398-ED0CE7C22E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677BBE0E-F8C8-4AF3-A398-ED0CE7C22E69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

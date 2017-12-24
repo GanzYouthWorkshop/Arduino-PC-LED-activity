@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Arduino_PC_LED_Activity
+namespace GEV.PCActivity
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Arduino_PC_LED_Activity
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new MainForm());
         }
     }
 }
